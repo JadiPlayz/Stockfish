@@ -1,4 +1,6 @@
 ![Stockfish Github](https://github.com/user-attachments/assets/be60edf0-5644-4637-8c23-5149419fed5c)
+![Static Badge](https://img.shields.io/badge/supporters-0-red)
+
 ## Stockfish
 
 A custom Fishstrap theme.
