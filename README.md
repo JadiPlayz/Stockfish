@@ -15,4 +15,4 @@ I would appreciate the support.
   
 ## Downloading
 
-Download from the releases menu or [here] https://github.com/JadiPlayz/Stockfish/releases
+Download from the releases menu or [here.](https://github.com/JadiPlayz/Stockfish/releases)
