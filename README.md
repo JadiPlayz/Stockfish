@@ -1,6 +1,16 @@
-![Stockfish Github](https://github.com/user-attachments/assets/be60edf0-5644-4637-8c23-5149419fed5c)
-![Static Badge](https://img.shields.io/badge/supporters-0-red)
+<div align="center">
+  
+  ![Stockfish Github](https://github.com/user-attachments/assets/5ea4e512-d7ae-4a86-9609-093becabd7bf)
+</div>
+
+<div align="center">
+
 ![Static Badge](https://img.shields.io/badge/license-MIT-orange)
+
+</div>
+
+
+
 
 ## Stockfish
 
