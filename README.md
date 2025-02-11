@@ -6,6 +6,7 @@
 <div align="center">
 
 ![Static Badge](https://img.shields.io/badge/license-MIT-orange)
+![Static Badge](https://img.shields.io/badge/workflow-steady-lightgreen)
 
 </div>
 
