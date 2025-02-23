@@ -1,3 +1,5 @@
+> [!CAUTION]
+> The only official places to download Stockfish is this GitHub repository.
 <div align="center">
   
   ![Stockfish Github](https://github.com/user-attachments/assets/5ea4e512-d7ae-4a86-9609-093becabd7bf)
